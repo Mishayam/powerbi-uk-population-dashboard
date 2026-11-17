@@ -2,6 +2,11 @@
 
 I built this Power BI report to explore UK population figures over time. I brought population, annual change and growth indicators together so they can be viewed on one page.
 
+
+## Dashboard preview
+
+![Dashboard screenshot](dashboard-preview.png)
+
 ## What is in the report
 
 - A year slicer.
